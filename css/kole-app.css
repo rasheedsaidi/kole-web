@@ -160,3 +160,20 @@
 .app-ul {
     list-style-type: none;
 }
+.q {
+    min-height: 230px;
+    width: 250px;
+    border: 1px solid#264766;
+    margin: 3px;
+}
+.zoo {
+    margin: 15px;
+    margin-left: 40em;
+}
+.zoo1 {
+    margin: 10px;
+    margin-left: 45em;
+    color: lightseagreen;
+}.co {
+    color: #fff;
+}
