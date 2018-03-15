@@ -1,0 +1,162 @@
+.app-bg {
+    background-color: #264677;
+}
+.app-height {
+    min-height: 700px;
+}
+.app-marg {
+    margin-top: 620px;
+}
+.app-text {
+    color: #fff;
+    font-size: 2.8em;
+    font-weight: bolder;
+}
+.top-h-50 {
+    height: 50px;
+    width: auto;
+}
+.top-h-30 {
+    height: 30px;
+    width: auto;
+}
+.buttom-h-25 {
+    height: 20px;
+    width: auto;
+}
+.v-items {
+    flex-direction: column;
+}
+.app-c-white {
+    color: #fff;
+    font-size: 1.1em;
+}
+.app-footer {
+    min-height: 50px;
+}
+.app-page-border {
+    border: solid #123464 5px;
+}
+.app-page-border2 {
+    border: solid #000000 5px;
+}
+.app-font {
+    color: #123464;
+    font-size: 1.2em;
+    font-weight: 500
+}.text {
+    color: #fff;
+}
+.font {
+    font-size: .8em;
+}
+.float {
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid #183257;
+    background-position: center bottom, center calc(100% - 1px); 
+    box-shadow: none;
+}
+.app-color {
+    font-size: 1.4em;
+    font-weight: 500;
+}
+.app-point {
+    border:2px solid #123464;
+}
+.app-style {
+    border: 5px solid#264766;
+    color: #183257;
+    min-height: 60px;
+    width: 250px;
+    font-size: 1.4em;
+    font-weight: 600;
+}
+.home-btn {
+    padding: .4em 1.5em;
+    font-size: 2em;
+    font-weight: 700;  
+    display: inline-block;
+    text-decoration: none;
+}
+.btn-signup:hover {
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    text-decoration: none;
+}
+.btn-signin:hover {
+    background-color: #fff;
+    color: #183257;
+    text-decoration: none;
+}
+.btn-signup {
+    background-color: #fff;
+    color: #183257
+}
+.btn-signin {
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+}
+.home-footer {
+    color: #fff;
+    font-size: 1.2em;
+    min-height: 100px;
+}
+.btn {
+    display: inline-block;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.app-btn-signup {
+    background-color: #264766;
+    color: #fff;
+    font-weight: 500;
+}
+.app-btn {
+    padding: .4em 5em;
+    font-size: 1.5em;
+    font-weight: 700;  
+    display: inline-block;
+    text-decoration: none;
+    border: 5px solid#000;
+}
+.kole-text {
+    line-height: 4px;
+    font-size: .9em;
+}
+.app-marg {
+    margin-top: -3em;
+    margin-left: 15em;
+}
+.app-home-signin {
+    min-height: 100px;
+    padding-left: 2em;
+    padding-right: 5em;
+}
+.app-box {
+    border: 2px solid#fff;
+    background-color: transparent;
+    font-size: 1.7em;
+    font-weight: 600;
+    color: azure;
+}
+.app-t {
+    color: #123464; 
+}
+.app-ul {
+    list-style-type: none;
+}
